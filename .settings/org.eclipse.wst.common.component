@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+	<wb-module deploy-name="HRM-CRM">
+		<wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/jre1.8.0_25"/>
+		<property name="context-root" value="HRM-CRM"/>
+		<property name="java-output-path" value="/HRM-CRM/build/classes"/>
+	</wb-module>
+</project-modules>

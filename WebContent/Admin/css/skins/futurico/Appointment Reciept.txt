@@ -1,0 +1,259 @@
+logo 	
+logo
+*????? ???????? ???? ?????*
+*Ministry of External Affairs Government of India*
+*Online Appointment Receipt*
+
+	Barcode
+
+*Applicant Details:*
+Application Reference No.(ARN) 	15-0001722534
+Service Type 	FRESH
+Type of Application 	Normal
+Given Name 	SUNNY HEMANT
+Surname 	UDHANI
+Father's Name 	HEMANT HASSANAND UDHANI
+Mother's Name 	NEHA HEMANT UDHANI
+Date of Birth 	17/04/1993
+Place of Birth 	AHMEDABAD,AHMEDABAD,GUJARAT
+Gender 	MALE
+Marital Status 	SINGLE
+Employment Type 	STUDENT
+Application Submitted Date 	09/02/2015
+Present Address 	A-40/607, KRISHNANAGAR, SAIJPUR BOGHA, AHMEDABAD,
+382345, GUJARAT, INDIA
+*Applicants References Details: *
+First Reference 	HEMANT UDHANI A-40/607, KRISHNANAGAR, SAIJPUR BOGHA,
+AHMEDABAD-382345, 9879472474
+Second Reference 	NIKHILESH UDHANI, G-8 HAREKRISHNA APARTMENTS,
+NAYANNAGAR, SAIJPUR BOGHA AHMEDABAD-382345, 9537643507
+
+	
+*Payment Details*^#
+Total Fee (Rs.) 	1500.00
+Paid Fee (Rs.) 	1500.00
+Date and Time 	09/02/2015 05:34 PM
+Transaction Id 	CP14381809
+
+*Appointment Details:*
+Passport Seva Kendra Address 	Mithakali Ahmedabad,
+MITHAKALI AHMEDABAD, ARYA ARCADE, GROUND & FIRST FLOOR, NR CROSS WORD,
+MITHAKALI SIX ROAD, NAVRANGPURA, AHMEDABAD -380009, GUJARAT
+*Appointment Id* 	*100006105842115*
+*Appointment Date and Time * 	*23/02/2015 & 02:00 PM*
+*Reporting Date and Time* 	*23/02/2015 & 01:45 PM*
+*Batch* 	*16* 	Barcode
+*Sequence No.* 	*25*
+ 		 	
+ 		 	
+
+*_Please Read Carefully:_*
+
+  * Please reach Passport Seva Kendra (PSK) at *01:45 PM* as mentioned
+    above and carry the printed copy of this appointment receipt.
+  * Check *Document Advisor* on website *_'www.passportindia.gov.in'_*
+    to know the documents required at PSK.Carry original documents and
+    their self attested photocopies. Final decision with regard to
+    documents required is at the discretion of RPO staff at PSK.
+  * In case of minor applicants (below 4 years of age), carry the recent
+    passport size photograph (4.5 X 3.5 cm) with white background.
+  * Only applicant is allowed inside the PSK. However, in case of
+    exceptions such as Senior Citizen / Physically Challenged /
+    Illiterate / Minor applicants, one person from the family may be
+    allowed to accompany inside PSK.
+  * At PSK, a paper token will be issued to you after checking of
+    documents.Your application will be processed at Counter A followed
+    by counters B and C. At all stages, please be alert and watch the
+    token display screens to know the counter at which your application
+    will be processed. Please collect acknowledgement slip from the Exit
+    counter before leaving PSK. Also,you are requested to fill the
+    feedback form at the exit counter.
+  * Corrosive substances, explosives, weapons and any sharp objects are
+    not allowed inside the PSK. Please co-operate with security staff
+    for frisking before entry in PSK. Your security is our primary concern.
+  * Take care of your belongings inside the PSK.
+  * Keep your mobile in silent mode inside PSK. Also video / photography
+    is not allowed inside.
+  * Thanks for showing your interest in _'Passport Seva SMS Services'_
+    enrolment. Please pay Rs 35/- (THIRTY FIVE ONLY) in cash as the
+    Enrolment Charges during your visit to Passport Seva Kendra.
+  * ATM facility available at PSK for all Bank Cards.
+  * *Help us to serve you better.*
+
+*# Details as per the Payment Date. Payment once made for availing
+passport services will not be refunded. *
+
+ 
+
+The following table lists Applicant Categories along with the Documents
+to be Submitted. The Document No. mentioned in Documents to be Submitted
+column is the reference given to the document mentioned in List of
+Documents table.
+ 
+ 
+Applicant Categories 	Documents to be Submitted
+Ordinary Case (Citizen of India by birth) 	1, 2, 3 (if the applicant is
+eligible for Non ECR)
+Citizen of India by Descent (Born to Indian parent(s) outside India)
+(i) 1, 2, 3 (if the applicant is eligible for Non ECR)
+(ii) 4 or 5 or 6
+Citizen of India by Registration/ Naturalization (Granted citizenship by
+MHA) 	1, 2, 3 (if the applicant is eligible for Non ECR), 7
+Applicants repatriated from abroad at Government cost 	1, 2, 3 (if the
+applicant is eligible for Non ECR), 5 (if available), 8, 9
+Applicants deported to India/ Emergency Certificate cases 	1, 2, 3 (if
+the applicant is eligible for Non ECR), 5 (if available), 8 (if any), 9
+Government/ Public Sector/ Statutory body employees 	(i) 1, 2
+(ii) 21 (if No Police Verification is required) or 20 (if Post Police
+Verification is required)
+Dependent family members of Government/ Public Sector/ Statutory body
+employees (For J&K children in age group 10-15 years are covered. For
+rest of India children in age group 18-21 are covered) 	1, 2, 3 (if the
+applicant is eligible for Non ECR), 21 (of dependent) and 24 if No
+Police Verification is required
+Retired government officials 	1, 2, 10 (if Post Police Verification is
+required)
+Applicants having Diplomatic/ Official Passport and applying for
+ordinary Passport while in service 	(i) 1, 2 , 11 (12 if surrender
+certificate is not *available*)
+(ii) 21 or 20 if applicant is Government/Public Sector/Statutory body
+employee
+*Note:* In case the applicant submits "12", "2" is not required
+Dependent family members of Diplomatic/ Official Passport holders who
+are not government servants (For J&K Children in age group 10-15 years
+are covered) 	1, 2, 3 (if the applicant is eligible for Non ECR), 26
+Owner, partners and directors of Companies which are members of CII,
+FICCI & ASSOCHAM. 	(i) 1, 2
+(ii) 24 and 25 if Post PV is required
+Minor change in name 	1 (in new name), 2 (in old name), 3 (if the
+applicant is eligible for Non ECR - Documents in old name are allowed ), 23
+Major change in name 	1 (in new name), 2 (in old name), 3 (if the
+applicant is eligible for Non ECR - Documents in old name are allowed ),
+13, 23
+Change/ Addition in surname due to marriage 	(i) 1, 2, 3 (if the
+applicant is eligible for Non ECR)
+(ii) 14 or 22
+Change in name in case of Government/ Public Sector/ Statutory body
+employees 	1, 2, 15, 16, 23
+Nagaland Residents 	1, 2, 3 (if the applicant is eligible for Non ECR)
+*Note:* Additional PV required from Guwahati through MHA.
+Naga origins residing outside Nagaland 	1, 2, 3 (if the applicant is
+eligible for Non ECR)
+*Note:* Additional PV required from Guwahati through MHA.
+Jammu and Kashmir Residents 	1, 2, 3 (if the applicant is eligible for
+Non ECR)
+Jammu and Kashmir Residents staying outside J&K for more than five
+years 	1, 2, 3 (if the applicant is eligible for Non ECR)
+Students staying away from their parent's current residence 	1, 2, 3 (if
+the applicant is eligible for Non ECR), 17, 18
+Senior Citizens (For J&K: Men - 65+ years, Women - 60+ years; For rest
+of India 65+ years) 	1, 2, 3 (if the applicant is eligible for Non ECR),
+19 (if Post Police Verification is required)
+
+ 
+ 
+Document No. 	List of Documents
+1. 	*Proof of Present Address.* For Proof of Address attach one of the
+following documents:
+
+ 1. Water bill/ Telephone (landline or post paid mobile bill)/
+    Electricity bill (at least 2 bills are required - One bill should of
+    be of last year and the other bill of current year)
+ 2. One year statement (with transactions)/ Passbook of running bank
+    account (Public Sector Banks only)
+ 3. Income Tax Assessment Order
+ 4. Election Commission Photo ID card
+ 5. Gas connection bill
+ 6. Certificate from Employer of reputed and widely known companies on
+    letter head (Only public limited companies can give address proof on
+    company letter head along with seal. Computerised print-outs shall
+    not be entertained)
+ 7. Spouse's passport copy (First and last page including family
+    details), (provided the applicant's present address matches the
+    address mentioned in the spouse's passport)
+ 8. Applicant's current and valid ration card
+    *NOTE 1:* If any applicant submits only ration card as proof of
+    address, it should be accompanied by one more proof of address out
+    of the given categories.
+ 9. Parent's passport copy, in case of minors (First and last page)
+10. Aadhaar Letter/ Card (If aadhaar card issuance date is less than a
+    year from passport application processing date at PSK, it should be
+    accompanied by one more proof of address out of the given categories)
+11. Registered Rent Agreement (for a period of more than one year)
+
+2. 	*Proof of Date of Birth.* For Proof of Date of Birth attach one of
+the following documents:
+
+ 1. Birth certificate issued by a Municipal Authority or any office
+    authorized to issue Birth and Death Certificate by the Registrar of
+    Births & Deaths
+ 2. School leaving certificate / Secondary School leaving certificate/
+    Certificate of Recognized Boards from the school last attended by
+    the applicant or any other recognized educational institution
+ 3. Affidavit sworn before a Magistrate/Notary stating date/place of
+    birth as per the specimen in Annexure "A" by illiterate or
+    semi-illiterate applicants (Less than 5th class).
+
+For applicants born on or after 26.01.89, only Birth Certificate issued
+by the Municipal Authority or any office authorized to issue Birth and
+Death Certificate by the Registrar of Births & Deaths is acceptable. The
+Birth Certificate should ordinarily contain the name of child, name of
+father and mother, date of birth, place of birth, sex, registration
+number and date of registration. If the Birth Certificate doesn't
+contain the name of child, a declaration on plain paper signed by
+parents, is required to be submitted specifying the name of the child.
+3. 	Documentary proof for any one of the Non-ECR (previously ECNR)
+categories, Refer Column 2.15 under *Section-B* of passport instruction
+booklet
+4. 	Birth Registration Certificate issued by Embassy/ High Commission/
+Consulate of India
+5. 	Old Passport in original with self-attested photocopy of its first
+two and last two pages, including ECR/Non-ECR page (previously ECNR) and
+the page of observation (if any), made by Passport Issuing Authority and
+validity extension page, if any, in respect of short validity passport
+6. 	Passport of parents in original with self-attested photocopy of its
+first two and last two pages, including ECR/Non-ECR page (previously
+ECNR) and the page of observation (if any), made by Passport Issuing
+Authority and validity extension page, if any, in respect of short
+validity passport
+7. 	Citizenship Certificate issued by Ministry of Home Affairs
+8. 	Proof of refund of repatriation /deportation cost (if any) to
+Ministry of External Affairs
+9. 	Original Emergency Certificate/Seizure Memo issued by Airport
+Immigration Authorities on applicant's arrival in India
+10. 	Pension Payment Order
+11. 	Proof of surrender or cancellation of Diplomatic/official Passport
+12. 	Cancelled Passport (if surrender certificate is not available),
+with a letter explaining why surrender certificate is not available
+13. 	Paper clipping of two leading daily newspapers in original (one
+daily newspaper should be of the area of Applicant's Permanent Address
+and the other at Current Address or nearby area)
+14. 	An attested copy of marriage certificate issued by Registrar of
+Marriage
+15. 	Gazette Notification changing name in applicant's department
+16. 	Fresh ID Certificate in changed name
+17. 	Student Identity Card issued by Government Recognized Educational
+Institutions, in respect of full time courses
+18. 	Bonafide Letter from authorized signatory of college (On official
+letter head of UGC recognized College)
+19. 	Copy of child's (Age>18) Passport , who is staying abroad (with
+page having parent's name)
+20. 	No Objection Certificate (NOC) (as per Annexure 'M')
+21. 	"Identity Certificate" in original as per Annexure "B"
+22. 	A joint affidavit from husband and wife along with a joint
+photograph, (Specimen at Annexure "D") When joint affidavit is not
+possible the affidavit should indicate the reason for it. If applying
+for passport for the first time, this affidavit is required only if
+there is a change in the first name.
+23. 	Deed poll/sworn affidavit as per Annexure "E"
+24. 	Standard Affidavit as per Annexure "I"
+25. 	Verification Certificate as per Annexure "J"
+26. 	Photocopy of Diplomatic/ Official Passport
+
+ 
+ 
+*Note:* The list of documents provided in the table above is indicative.
+The decision of APO/RPO shall be considered final.
+ 
+	
+

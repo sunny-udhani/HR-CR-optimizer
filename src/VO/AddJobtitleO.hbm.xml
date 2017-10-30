@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<!-- This mapping demonstrates (1) use of a class-to-subselect mapping, that allows data defined in other classes to be exposed as a read-only entity (you would do this if you really wanted a view, but didn't or couldn't define one for some reason) This is a "derived entity" mapping. (2) use of <synchronize/> to ensure that auto-flush happens correctly, and that queries against the derived entity do not return stale data -->
+
+<hibernate-mapping>
+
+
+<class name="vo.AddJobtitleVO">
+
+
+<id name="nationalityid" column="jobtitle_id" >
+
+<generator class="increment"/>
+
+</id>
+
+<property name="jobtitlename" not-null="true"/>
+
+
+</class>
+</hibernate-mapping>
